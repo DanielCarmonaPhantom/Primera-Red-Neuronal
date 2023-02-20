@@ -1,1 +1,1 @@
-# Taller-Mi-Primera-Red-Neuronal
+# Taller: Primera red neuronal con Tensorflow y Keras
