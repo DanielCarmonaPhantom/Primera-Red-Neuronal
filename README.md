@@ -12,7 +12,9 @@ Para ejecutar nuestro código, vamos a estar trabajo con un entorno de Python en
 
 ### Descargar Conjunto de datos
 1. Arriba de este documento tenemos un botón en verde llamado CODE, al darle click nos pregunta como queremos descargar los archivos, le daremos click a Download ZIP
-2. Se empezarán a descargar los archivos, los descomprimimos y dentro de la carpeta tendremos otra carpeta llamada `Data` que contiene los 2 conjuntos de datos que trabajaremos para el taller.
+2. Se empezarán a descargar los archivos, los descomprimimos y dentro de la carpeta tendremos los 2 conjuntos de datos que trabajaremos para el taller.
+  * `diabetes_train.csv`
+  * `diabetes_test.csv`
 
 
 ### Cargar el conjunto de datos que vamos a trabajar.
